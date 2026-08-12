@@ -18,3 +18,7 @@ Revista digital estática sobre aventura, naturaleza y vida sostenible. Construi
 - style.css        # Estilos de la revista
 - login.css        # Estilos del formulario
 - script.js        # Validación del formulario de registro
+
+
+# Pagina montada en Netlify
+- Link: https://terra-webzine.netlify.app 
