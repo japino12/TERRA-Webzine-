@@ -7,9 +7,9 @@ Revista digital estática sobre aventura, naturaleza y vida sostenible. Construi
   de contraseña
 
 # Tecnologías
-HTML5 
-CSS ( Grid, Flexbox.) 
-JavaScript ( Validacion del formulario de registro en login.html)
+- HTML5 
+- CSS ( Grid, Flexbox.) 
+- JavaScript ( Validacion del formulario de registro en login.html)
 
 # Estructura del Proyecto
 - assets        # Imágenes del proyecto
